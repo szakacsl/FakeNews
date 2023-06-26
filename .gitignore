@@ -1,0 +1,4 @@
+data/
+train_data.csv
+test_data.csv
+submit_data.csv
